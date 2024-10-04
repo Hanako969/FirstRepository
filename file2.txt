@@ -1,2 +1,4 @@
 Good bye!
 Some other string
+line from User_2
+Another line from User_2
