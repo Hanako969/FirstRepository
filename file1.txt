@@ -1,2 +1,3 @@
 "Hello git"
 Good bye
+Good morning! (from branch add-feature1)
